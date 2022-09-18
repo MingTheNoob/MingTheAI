@@ -1,2 +1,2 @@
 # MingBot
-MingBot is an AI chat bot that functions like a human and does not operate on commands.
+Ming The AI is a Discord bot that uses the BrainShop API.
