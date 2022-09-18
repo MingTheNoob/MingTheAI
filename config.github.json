@@ -1,0 +1,13 @@
+{
+    "token": "token",
+    "status": {
+        "state": "online",
+        "type": "PLAYING",
+        "name": "with you."
+    },
+    "chat": {
+        "key": "key",
+        "url": "http://api.brainshop.ai/get",
+        "brainID": "brainID"
+    }
+}
