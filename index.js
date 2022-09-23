@@ -6,6 +6,7 @@ const client = new Client({
         GatewayIntentBits.GuildMessageReactions,
         GatewayIntentBits.GuildMessageTyping,
         GatewayIntentBits.DirectMessages,
+        GatewayIntentBits.DirectMessageTyping,
         GatewayIntentBits.MessageContent
     ]
 });
