@@ -32,7 +32,7 @@ client.on('uncaughtException', err => {
 });
 
 client.on('messageCreate', (msg) => {
-    if (msg.author.bot) return;
+    if (msg.author.id == client.user.id) return;
     if (msg.guild) {
             client.util.handleTalk(msg);
     }
