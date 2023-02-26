@@ -1,2 +1,2 @@
-# MingBot
-Ming The AI is a Discord bot that uses the BrainShop API.
+# MingTheAI
+MingTheAI is a Discord bot that uses the BrainShop API.
